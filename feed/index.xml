@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Oct 2024 17:26:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 11:14:25 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Test github post</title>
+		<link>/2024/12/24/test-github-post/</link>
+					<comments>/2024/12/24/test-github-post/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 11:14:25 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">/?p=19</guid>
+
+					<description><![CDATA[This is a post for testing github export]]></description>
+										<content:encoded><![CDATA[
+<p>This is a post for testing github export</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/12/24/test-github-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Test Post</title>
 		<link>/2024/10/30/test-post/</link>
 					<comments>/2024/10/30/test-post/#respond</comments>
@@ -42,7 +62,7 @@
 		<item>
 		<title>Hello world!</title>
 		<link>/2024/10/30/hello-world/</link>
-					<comments>/2024/10/30/hello-world/#comments</comments>
+					<comments>/2024/10/30/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 30 Oct 2024 17:15:53 +0000</pubDate>
@@ -55,7 +75,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2024/10/30/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
